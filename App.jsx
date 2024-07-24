@@ -1,5 +1,4 @@
 //App.js 
-
 import React from 'react'; 
 import { BrowserRouter, Routes, Route } from 'react-router-dom'; 
 import 'bootstrap/dist/css/bootstrap.min.css'; 
@@ -30,7 +29,6 @@ export default App;
 import { BrowserRouter, Routes, Route } from 'react-router-dom'; 
 import 'bootstrap/dist/css/bootstrap.min.css'; 
 import Todo from './Todo'; 
-
 
 function App() { 
 const headStyle = { 
